@@ -3,13 +3,13 @@
   <p><b>Engenheiro de Software | Full-Stack • Mobile • IA</b></p>
   
   <p>
-    <a href="https://www.linkedin.com/in/alanbss" target="_blank">
+    <a href="https://www.linkedin.com/in/abss1995" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Conectar-24292e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:abss1995@hotmail.com">
       <img src="https://img.shields.io/badge/Email-Contato-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/abss1995">
+    <a href="https://github.com/alanbss">
       <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-24292e?style=flat-square&logo=github&logoColor=white" alt="Status" />
     </a>
   </p>
